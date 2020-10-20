@@ -1,0 +1,22 @@
+{
+  "name": "quick-sort-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microverse-students/quick-sort-3.git"
+  },
+  "author": "Microverse Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microverse-students/quick-sort-3/issues"
+  },
+  "homepage": "https://github.com/microverse-students/quick-sort-3#readme",
+  "dependencies": {
+    "jest": "^25.5.4"
+  }
+}
